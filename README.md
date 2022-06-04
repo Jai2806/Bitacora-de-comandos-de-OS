@@ -1,2 +1,4 @@
-# Bitacora-de-comandos-de-OS
-Bitácora de Comandos para la clase de Sistemas Operativos
+Jailynne Dayanne Acuña Corrales
+Universidad Latinoamericana de Ciencia y Tecnología
+ULACIT
+2022
