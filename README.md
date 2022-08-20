@@ -346,3 +346,14 @@ find /home/user1 -name *.bin: buscar ficheros con extensión ‘. bin’ dentro 
 find /usr/bin -type f -atime +100: buscar ficheros binarios no usados en los últimos 100 días.
 find /usr/bin -type f -mtime -10: buscar ficheros creados o cambiados dentro de los últimos 10 días.
 find / -name *.rpm -exec chmod 755 ‘{}’ ;: buscar ficheros con extensión ‘.rpm’ y modificar permisos.
+
+![image](https://user-images.githubusercontent.com/106854916/185730221-68bb0c3e-5b17-4638-837c-252835836c71.png)
+
+![image](https://user-images.githubusercontent.com/106854916/185730231-dd0d7265-123c-42d0-b655-8e8eb0a72d57.png)
+
+![image](https://user-images.githubusercontent.com/106854916/185730234-c893eb3a-324c-42d9-ad33-9e38e622bd63.png)
+
+![image](https://user-images.githubusercontent.com/106854916/185730240-8fbaeaec-cbd5-4a04-8335-81af229cfeba.png)
+
+
+
